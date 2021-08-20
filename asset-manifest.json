@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hostel-Assignment/static/css/main.a617e044.chunk.css",
+    "main.js": "/hostel-Assignment/static/js/main.4434e378.chunk.js",
+    "main.js.map": "/hostel-Assignment/static/js/main.4434e378.chunk.js.map",
+    "runtime-main.js": "/hostel-Assignment/static/js/runtime-main.7463bdc2.js",
+    "runtime-main.js.map": "/hostel-Assignment/static/js/runtime-main.7463bdc2.js.map",
+    "static/js/2.82cdb534.chunk.js": "/hostel-Assignment/static/js/2.82cdb534.chunk.js",
+    "static/js/2.82cdb534.chunk.js.map": "/hostel-Assignment/static/js/2.82cdb534.chunk.js.map",
+    "static/js/3.854894a3.chunk.js": "/hostel-Assignment/static/js/3.854894a3.chunk.js",
+    "static/js/3.854894a3.chunk.js.map": "/hostel-Assignment/static/js/3.854894a3.chunk.js.map",
+    "index.html": "/hostel-Assignment/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/hostel-Assignment/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.82cdb534.chunk.js.LICENSE.txt": "/hostel-Assignment/static/js/2.82cdb534.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7463bdc2.js",
+    "static/js/2.82cdb534.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.4434e378.chunk.js"
+  ]
+}
